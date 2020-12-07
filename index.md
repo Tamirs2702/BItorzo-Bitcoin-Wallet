@@ -22,19 +22,14 @@ Android: [BItorzo Bitcoin Wallet](https://play.google.com/store/apps/details?id=
 ```markdown
 Syntax highlighted code block
 
-# Send Bitcoin Fast & Securely to your contacts 
-## Recieve Bitcoin Use QR or Share address
-### Bitorzo Bitcoin - Send Bitcoin as simply as sending a message
 
-- Bulleted
-- List
+### More Features
 
-1. Numbered
-2. List
+- Send Bitcoin Fast & Securely to your contacts 
+- Recieve Bitcoin Use QR or Share address
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://play.google.com/store/apps/details?id=com.bitorzo.wallet) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -45,4 +40,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Bitorzo is released under the MIT License [documentation](https://github.com/Bitorzo) or [contact support](https://github.com/contact) and we’ll help you sort it out.
