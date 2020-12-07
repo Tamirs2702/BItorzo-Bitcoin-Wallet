@@ -4,7 +4,7 @@
 
 
 Get Free Bitorzo Bitcoin Wallet 
-Android: [BItorzo Bitcoin Wallet](https://play.google.com/store/apps/details?id=com.bitorzo.wallet)
+Android: [Get Bitorzo Wallet](https://play.google.com/store/apps/details?id=com.bitorzo.wallet)
 
 
 
@@ -27,8 +27,6 @@ Android: [BItorzo Bitcoin Wallet](https://play.google.com/store/apps/details?id=
 - Recieve Bitcoin Use QR or Share address
 
 
-[Link](https://play.google.com/store/apps/details?id=com.bitorzo.wallet) and ![Image](src)
-```
 
 
 ### Contact us 
