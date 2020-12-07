@@ -1,6 +1,6 @@
 ## Bitorzo 
 
-Get Free Bitorzo Bitcoin Wallet [editor on GitHub](https://play.google.com/store/apps/details?id=com.bitorzo.wallet) to maintain and preview the content for your website in Markdown files.
+Get Free Bitorzo Bitcoin Wallet [Download](https://play.google.com/store/apps/details?id=com.bitorzo.wallet) to maintain and preview the content for your website in Markdown files.
 
 Store & use Bitcoin in a simple and secure way. Beginners and advanced users friendly! Bitorzo is secure-by design and implementation, allowing users to be in full control of their funds. Exchange Bitcoin with your contacts anywhere, anytime!
 
