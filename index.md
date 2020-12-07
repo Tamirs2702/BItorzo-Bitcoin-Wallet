@@ -34,8 +34,7 @@ Android: [Get Bitorzo Wallet](https://play.google.com/store/apps/details?id=com.
 
 ### Support or Contact
 
-           info@Bitorzo.com 
+         info@Bitorzo.com 
          Phone: (+1) 718 705 4928 
-             Bitorzo Team 
 
 Bitorzo is released under the MIT License [documentation](https://github.com/Bitorzo) or [contact support](https://github.com/contact) and we’ll help you sort it out.
