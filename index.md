@@ -1,6 +1,6 @@
 ## Bitorzo
 
-Store & use Bitcoin in a simple and secure way. Beginners and advanced users friendly! Bitorzo is secure-by design and implementation, allowing users to be in full control of their funds. Exchange Bitcoin with your contacts anywhere, anytime!
+    Store & use Bitcoin in a simple and secure way. Beginners and advanced users friendly! Bitorzo is secure-by design and implementation, allowing users to be in full control of their funds. Exchange Bitcoin with your contacts anywhere, anytime!
 
 
 Get Free Bitorzo Bitcoin Wallet 
@@ -19,8 +19,6 @@ Android: [BItorzo Bitcoin Wallet](https://play.google.com/store/apps/details?id=
 - Dynamic transaction fees (recommended for a reasonable confirmation time).
 - Easily Send / Receive by scanning QR code (for non-contacts or non-Bitorzo users).
 - Keep track of senders/receivers identities (from your contacts).
-```markdown
-Syntax highlighted code block
 
 
 ### More Features
