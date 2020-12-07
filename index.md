@@ -1,15 +1,16 @@
-## Bitorzo 
-
-Get Free Bitorzo Bitcoin Wallet [Download](https://play.google.com/store/apps/details?id=com.bitorzo.wallet) to maintain and preview the content for your website in Markdown files.
+## Fast ,Robust & Secure Bitcoin Wallet
 
 Store & use Bitcoin in a simple and secure way. Beginners and advanced users friendly! Bitorzo is secure-by design and implementation, allowing users to be in full control of their funds. Exchange Bitcoin with your contacts anywhere, anytime!
 
 
+Get Free Bitorzo Bitcoin Wallet 
+Android: [BItorzo Bitcoin Wallet](https://play.google.com/store/apps/details?id=com.bitorzo.wallet)
 
 
-### Markdown
 
-Main features:
+
+### Main features:
+
 - Private keys never leave your device, and strongly encrypted on it!
 - Choose a contact and just send - easily send Bitcoin to your contacts with Bitorzo, can be done anywhere and anytime without scanning any QR codes or sending addresses.
 - Protect your funds with biometrics (FaceID / Fingerprint)
@@ -21,9 +22,9 @@ Main features:
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Send Bitcoin Fast & Securely to your contacts 
+## Recieve Bitcoin Use QR or Share address
+### Bitorzo Bitcoin - Send Bitcoin as simply as sending a message
 
 - Bulleted
 - List
