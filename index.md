@@ -1,4 +1,4 @@
-## Fast ,Robust & Secure Bitcoin Wallet
+## Bitorzo
 
 Store & use Bitcoin in a simple and secure way. Beginners and advanced users friendly! Bitorzo is secure-by design and implementation, allowing users to be in full control of their funds. Exchange Bitcoin with your contacts anywhere, anytime!
 
