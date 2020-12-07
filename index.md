@@ -32,7 +32,6 @@ Syntax highlighted code block
 [Link](https://play.google.com/store/apps/details?id=com.bitorzo.wallet) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Contact us 
  
@@ -43,6 +42,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
  
  - Phone: (+1) 718 705 4928 
  
- Bitorzo Team , San Francisco, CA 94111
+         Bitorzo Team 
 
 Bitorzo is released under the MIT License [documentation](https://github.com/Bitorzo) or [contact support](https://github.com/contact) and we’ll help you sort it out.
