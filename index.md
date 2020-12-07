@@ -38,9 +38,9 @@ Syntax highlighted code block
 
 ### Support or Contact
 
- - Mail: info@Bitorzo.com 
+        - Mail: info@Bitorzo.com 
  
- - Phone: (+1) 718 705 4928 
+       - Phone: (+1) 718 705 4928 
  
          Bitorzo Team 
 
