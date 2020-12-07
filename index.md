@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Tamirs2702/bitorzonet/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Get it free for Android [Link on PlayStore](https://play.google.com/store/apps/details?id=com.bitorzo.wallet) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
